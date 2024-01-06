@@ -5,7 +5,9 @@
 💱 A simple currency converter created using Angular 14 💵.
 The project gets the currency rate from [ExchangeRate-API](https://www.exchangerate-api.com/docs/free).
 
-Please check out [the demo](https://65998e824cfc79f1df7e8bbd--courageous-churros-244da8.netlify.app/).
+## Demo
+
+Check out the live demo of the application [here](https://65998e824cfc79f1df7e8bbd--courageous-churros-244da8.netlify.app/).
 
 ## Screenshots
 
